@@ -1,0 +1,316 @@
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoVB\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbprojAssemblyReference.cache
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor_Ingreso.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\ProyectoVB\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente_Venta.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbprojAssemblyReference.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente_Venta.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor_Ingreso.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmReporteArticulos.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReporteComprovanteVenta.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.AssemblyReference.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente_Venta.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor_Ingreso.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmReporteArticulos.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReporteComprovanteVenta.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.AssemblyReference.cache
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente_Venta.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor_Ingreso.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmReporteArticulos.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReporteComprovanteVenta.resources
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll.config
+C:\sistema\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\sistema\Sistema.Presentacion\obj\Debug\RdlCompile.compiled

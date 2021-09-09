@@ -1,0 +1,56 @@
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbprojAssemblyReference.cache
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbprojAssemblyReference.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.AssemblyReference.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll.config
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.AssemblyReference.cache
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

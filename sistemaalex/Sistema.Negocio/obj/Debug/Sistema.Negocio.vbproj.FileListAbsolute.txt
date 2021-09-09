@@ -1,0 +1,68 @@
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.xml
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.xml
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoVB\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.xml
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbprojAssemblyReference.cache
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.Resources.resources
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.GenerateResource.cache
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CoreCompileInputs.cache
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CopyComplete
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.xml
+C:\ProyectoVB\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbprojAssemblyReference.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.Resources.resources
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.GenerateResource.cache
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CopyComplete
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.xml
+C:\Users\alex monterroso\Desktop\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.AssemblyReference.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.Resources.resources
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.GenerateResource.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CoreCompileInputs.cache
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CopyComplete
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.xml
+C:\Windows.old.000\Users\Alex Monterroso\Documents\escri2020\Sistema (1)\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.xml
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.xml
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll.config
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.xml
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.AssemblyReference.cache
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.Resources.resources
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.GenerateResource.cache
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CoreCompileInputs.cache
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.vbproj.CopyComplete
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.xml
+C:\sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
